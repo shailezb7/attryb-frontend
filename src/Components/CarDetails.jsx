@@ -12,6 +12,7 @@ import {
   } from '@chakra-ui/react'
 import { AuthContext } from '../Context/AuthContext';
 import { Navigate, useNavigate } from 'react-router-dom';
+import Navbar from './Navbar';
 
 const CarDetails = () => {
 
